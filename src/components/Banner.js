@@ -112,7 +112,7 @@ export const Banner = () => {
                       <p>Live Debt Clock<br></br></p>
                       {//Debt clock component
                       }
-                      <iframe src="http://www.USADebtClock.com/us-debt-clock-widget.php" height="100" width="350" scrolling="no" frameborder="0">
+                      <iframe src="https://www.USADebtClock.com/us-debt-clock-widget.php" height="100" width="350" scrolling="no" frameborder="0">
                       </iframe>
                     </div>
                   </div>
